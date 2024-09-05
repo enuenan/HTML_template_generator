@@ -1,0 +1,5 @@
+{
+  "watch": ["server.js", "src/**/*.ejs"],
+  "ext": "js,ejs",
+  "exec": "node server.js"
+}
